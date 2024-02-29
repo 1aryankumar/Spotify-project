@@ -1,11 +1,10 @@
-.left{
-    width: 25vw;
+.flex{
+    display: flex;
 }
 
-.right{
-    width: 75vw;
-}
-
-.border{
-    border: 2px solid red;
-}
+.justify-content{
+    justify-content: center; }
+    
+.item-center{
+        align-items: center;
+    }
