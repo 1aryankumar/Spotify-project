@@ -11,17 +11,6 @@
     width: 75vw;
 }
 
-.border{
+.red-border{
     border: 2px solid red;
 }
-
-.flex{
-    display: flex;
-}
-
-.justify-content{
-    justify-content: center; }
-    
-.item-center{
-        align-items: center;
-    }
