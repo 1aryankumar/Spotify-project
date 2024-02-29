@@ -1,0 +1,11 @@
+.left{
+    width: 25vw;
+}
+
+.right{
+    width: 75vw;
+}
+
+.border{
+    border: 2px solid red;
+}
