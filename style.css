@@ -15,3 +15,12 @@
     border: 2px solid red;
     margin: 3px;
 }
+
+.home ul li {
+    display: flex;
+    gap: 15px;
+    width: 14px;
+    list-style: none;
+    padding-top: 14px;
+    font-weight: bold;
+}
